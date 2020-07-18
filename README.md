@@ -13,7 +13,7 @@ Using Spark and data lakes to build an ETL pipeline for a data lake hosted on AW
 <h2>Tables and Schema</h2>
 
 (See Table Schema p4)
-![Table Schema p4](Table Schema p4.jpeg)
+![Table Schema p4](TableSchema_p4.jpg)
 
 <h4>Fact Table</h4>
 songplays - records in log data associated with song plays i.e. records with page NextSong
